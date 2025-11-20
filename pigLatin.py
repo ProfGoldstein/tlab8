@@ -5,7 +5,7 @@
 
 # There are two rules that need to be followed to convert text to Pig Latin:
 #
-# 1) If the word begins with a consonant sound, the initial consonant or 
+# 1) If the word begins with a consonant sound, the initial consonant or
 # consonant cluster (i.e., all of the letters that come before the initial vowel)
 # is moved to the end of the word, and "ay" is added at the end; or
 #
@@ -51,4 +51,3 @@ pigString = pigLatin(myString)
 
 # ...?
 print (pigString)
-  
