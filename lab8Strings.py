@@ -8,7 +8,7 @@ def sayHello():
 
   #Ask the user for their name.
   theirName =  input("What is your name? ")
-  
+
   #Create and display the greeting
   greeting = "Hello " + theirName + "."
   print ( greeting )
